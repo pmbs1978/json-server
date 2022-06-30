@@ -1,3 +1,24 @@
 {
-
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to new blog",
+      "body": "Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!Suco de cevadiss deixa as pessoas mais interessantis.Viva Forevis aptent taciti sociosqu ad litora torquent.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 css tips",
+      "body": "Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!Suco de cevadiss deixa as pessoas mais interessantis.Viva Forevis aptent taciti sociosqu ad litora torquent.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    }
+  ]
 }
