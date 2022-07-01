@@ -7,7 +7,8 @@
       "tags": [
         "webdev",
         "coding",
-        "news"
+        "news",
+        "tips"
       ]
     },
     {
@@ -17,6 +18,29 @@
       "tags": [
         "css",
         "webdev",
+        "html",
+        "coding"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Welcome to javascript",
+      "body": "Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!Suco de cevadiss deixa as pessoas mais interessantis.Viva Forevis aptent taciti sociosqu ad litora torquent.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
+      "tags": [
+        "javascript",
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Top 5 Vuejs tips",
+      "body": "Mussum Ipsum, cacilds vidis litro abertis. Si num tem leite então bota uma pinga aí cumpadi!Suco de cevadiss deixa as pessoas mais interessantis.Viva Forevis aptent taciti sociosqu ad litora torquent.Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio.",
+      "tags": [
+        "vuejs",
+        "webdev",
+        "javascript",
         "coding"
       ]
     }
